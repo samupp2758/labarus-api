@@ -1,8 +1,9 @@
 # Sources
 All the sources of the news and stock prices.
 
-### Alternative to get the stock prices (500 calls per month):
+### Alternatives to get the stock prices:
 https://rapidapi.com/sparior/api/mboum-finance/
+https://finance.yahoo.com/quote/*****
 
 ### Get stocks prices:
 https://companiesmarketcap.com it comes with the companies ranked by market cap (separated by country)<br>
